@@ -10,9 +10,9 @@ https://www.jcblog.cf/manifest.json
 https://www.jcblog.cf/posts/e433f3d/
 https://www.jcblog.cf/link/index.html
 https://www.jcblog.cf/about/index.html
-https://www.jcblog.cf/bangumis/index.html
 https://www.jcblog.cf/package.json
 https://www.jcblog.cf/categories/index.html
+https://www.jcblog.cf/bangumis/index.html
 https://www.jcblog.cf/fontawesome/index.html
 https://www.jcblog.cf/license/index.html
 https://www.jcblog.cf/musics/index.html
