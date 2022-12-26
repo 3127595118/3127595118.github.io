@@ -101,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/package.json</loc>
-    
-    <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.jcblog.cf/about/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/bangumis/index.html</loc>
+    <loc>https://www.jcblog.cf/package.json</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -129,6 +120,15 @@
   
   <url>
     <loc>https://www.jcblog.cf/categories/index.html</loc>
+    
+    <lastmod>2022-12-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jcblog.cf/bangumis/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -461,7 +461,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/posts/bd7ef112/</loc>
+    <loc>https://www.jcblog.cf/posts/bbc95d58/</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -470,7 +470,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/posts/bbc95d58/</loc>
+    <loc>https://www.jcblog.cf/posts/bd7ef112/</loc>
     
     <lastmod>2022-10-04</lastmod>
     
