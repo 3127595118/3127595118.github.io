@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.jcblog.cf/speaks/index.html</loc>
+    
+    <lastmod>2022-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jcblog.cf/fcircle/index.html</loc>
     
     <lastmod>2022-12-25</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://www.jcblog.cf/update/index.html</loc>
-    
-    <lastmod>2022-12-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/speaks/index.html</loc>
     
     <lastmod>2022-12-22</lastmod>
     
@@ -101,6 +101,15 @@
   </url>
   
   <url>
+    <loc>https://www.jcblog.cf/about/index.html</loc>
+    
+    <lastmod>2022-12-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jcblog.cf/package.json</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -111,15 +120,6 @@
   
   <url>
     <loc>https://www.jcblog.cf/bangumis/index.html</loc>
-    
-    <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/about/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -434,7 +434,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/archives/14740f7c.html</loc>
+    <loc>https://www.jcblog.cf/archives/7e9276a3.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -443,7 +443,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/archives/7e9276a3.html</loc>
+    <loc>https://www.jcblog.cf/archives/14740f7c.html</loc>
     
     <lastmod>2022-10-04</lastmod>
     
