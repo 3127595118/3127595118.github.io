@@ -6,7 +6,7 @@
   <link href="https://www.jcblog.cf/atom.xml" rel="self"/>
   
   <link href="https://www.jcblog.cf/"/>
-  <updated>2022-12-22T00:50:19.000Z</updated>
+  <updated>2022-12-30T07:39:35.653Z</updated>
   <id>https://www.jcblog.cf/</id>
   
   <author>
@@ -15,6 +15,43 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://www.jcblog.cf/posts/0/"/>
+    <id>https://www.jcblog.cf/posts/0/</id>
+    <published>2022-12-30T07:33:57.565Z</published>
+    <updated>2022-12-30T07:39:35.653Z</updated>
+    
+    <content type="html"><![CDATA[<div class="poem-wrap">  <div class="poem-border poem-left"></div>  <div class="poem-border poem-right"></div>    <h>念两句诗</h>    <p id="poem">挑选中...</p>    <p id="info">  <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>  <script type="text/javascript">    jinrishici.load(function(result) {      poem.innerHTML = result.data.content;      info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》';      document.getElementById("poem").value;      document.getElementById("info").value;    });  </script></p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;poem-wrap&quot;&gt;
+  &lt;div class=&quot;poem-border poem-left&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;poem-border poem-right&quot;&gt;&lt;/div&gt;
+    &lt;h&gt;念两句诗&lt;/h&gt;
+    &lt;p id=&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>page</title>
+    <link href="https://www.jcblog.cf/posts/140ab620/"/>
+    <id>https://www.jcblog.cf/posts/140ab620/</id>
+    <published>2022-12-30T07:33:19.000Z</published>
+    <updated>2022-12-30T07:33:19.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>免费梯子【跑路的可能性更大】</title>
