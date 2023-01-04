@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.jcblog.cf/links/index.html</loc>
+    
+    <lastmod>2023-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jcblog.cf/zaobao/links/index.html</loc>
+    
+    <lastmod>2023-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jcblog.cf/update/links/index.html</loc>
+    
+    <lastmod>2023-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jcblog.cf/fcircle/index.html</loc>
+    
+    <lastmod>2023-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.jcblog.cf/census/index.html</loc>
     
     <lastmod>2023-01-02</lastmod>
@@ -56,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/fcircle/index.html</loc>
-    
-    <lastmod>2022-12-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.jcblog.cf/othersite/index.html</loc>
     
     <lastmod>2022-12-25</lastmod>
@@ -102,33 +129,6 @@
   
   <url>
     <loc>https://www.jcblog.cf/messageboard/index.html</loc>
-    
-    <lastmod>2022-12-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/links/index.html</loc>
-    
-    <lastmod>2022-12-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/zaobao/links/index.html</loc>
-    
-    <lastmod>2022-12-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.jcblog.cf/update/links/index.html</loc>
     
     <lastmod>2022-12-22</lastmod>
     
@@ -452,7 +452,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/posts/69707535/</loc>
+    <loc>https://www.jcblog.cf/posts/d1fc759/</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -461,7 +461,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/posts/d1fc759/</loc>
+    <loc>https://www.jcblog.cf/posts/69707535/</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -497,7 +497,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/posts/14740f7c/</loc>
+    <loc>https://www.jcblog.cf/posts/ec12b762/</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -506,7 +506,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/posts/ec12b762/</loc>
+    <loc>https://www.jcblog.cf/posts/14740f7c/</loc>
     
     <lastmod>2022-10-04</lastmod>
     

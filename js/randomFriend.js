@@ -1,5 +1,5 @@
 var fdata = {
-    apiurl: "https://fcircle.yisous.xyz/",
+    apiurl: "https://py.jcblog.cf/",
     defaultFish: 500,
     hungryFish: 500,
 }
