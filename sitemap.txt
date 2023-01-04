@@ -1,4 +1,5 @@
-https://www.jcblog.cf/link/index.html
+https://www.jcblog.cf/census/index.html
+https://www.jcblog.cf/charts/index.html
 https://www.jcblog.cf/posts/0/
 https://www.jcblog.cf/gushi/index.html
 https://www.jcblog.cf/posts/140ab620/
@@ -14,9 +15,10 @@ https://www.jcblog.cf/zaobao/links/index.html
 https://www.jcblog.cf/update/links/index.html
 https://www.jcblog.cf/manifest.json
 https://www.jcblog.cf/posts/e433f3d/
-https://www.jcblog.cf/bangumis/index.html
+https://www.jcblog.cf/link/index.html
 https://www.jcblog.cf/about/index.html
 https://www.jcblog.cf/package.json
+https://www.jcblog.cf/bangumis/index.html
 https://www.jcblog.cf/categories/index.html
 https://www.jcblog.cf/fontawesome/index.html
 https://www.jcblog.cf/license/index.html
@@ -46,8 +48,8 @@ https://www.jcblog.cf/posts/a1078b2d/
 https://www.jcblog.cf/posts/ac792cf4/
 https://www.jcblog.cf/posts/61b9829e/
 https://www.jcblog.cf/posts/70734559/
-https://www.jcblog.cf/posts/d1fc759/
 https://www.jcblog.cf/posts/69707535/
+https://www.jcblog.cf/posts/d1fc759/
 https://www.jcblog.cf/posts/1b850b16/
 https://www.jcblog.cf/posts/aedd05c3/
 https://www.jcblog.cf/posts/7e9276a3/
