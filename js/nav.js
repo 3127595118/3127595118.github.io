@@ -27,4 +27,4 @@ $(window).scroll(function () {
 
 });
 
-document.getElementById("page-name").innerText = document.title.split(" | Zhpxfyの小窝")[0];}
+document.getElementById("page-name").innerText = document.title.split(" | Zaskyの小窝")[0];}
