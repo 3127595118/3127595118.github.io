@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/posts/0/"/>
-      <url>/posts/0/</url>
-      
-        <content type="html"><![CDATA[<div class="poem-wrap">  <div class="poem-border poem-left"></div>  <div class="poem-border poem-right"></div>    <h>念两句诗</h>    <p id="poem">挑选中...</p>    <p id="info">  <script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>  <script type="text/javascript">    jinrishici.load(function(result) {      poem.innerHTML = result.data.content;      info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》';      document.getElementById("poem").value;      document.getElementById("info").value;    });  </script></p></div>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>page</title>
       <link href="/posts/140ab620/"/>
       <url>/posts/140ab620/</url>
