@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/air-conditioner/index.html</loc>
+    <loc>https://www.jcblog.cf/album/index.html</loc>
     
     <lastmod>2023-05-15</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/album/index.html</loc>
+    <loc>https://www.jcblog.cf/air-conditioner/index.html</loc>
     
     <lastmod>2023-05-15</lastmod>
     
@@ -74,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/cookies/index.html</loc>
-    
-    <lastmod>2023-05-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.jcblog.cf/essay/index.html</loc>
     
     <lastmod>2023-05-15</lastmod>
@@ -92,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/fcircle/index.html</loc>
+    <loc>https://www.jcblog.cf/cookies/index.html</loc>
     
     <lastmod>2023-05-15</lastmod>
     
@@ -102,6 +93,15 @@
   
   <url>
     <loc>https://www.jcblog.cf/fish/index.html</loc>
+    
+    <lastmod>2023-05-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jcblog.cf/fcircle/index.html</loc>
     
     <lastmod>2023-05-15</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/news/index.html</loc>
+    <loc>https://www.jcblog.cf/music/index.html</loc>
     
     <lastmod>2023-05-15</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://www.jcblog.cf/music/index.html</loc>
+    <loc>https://www.jcblog.cf/news/index.html</loc>
     
     <lastmod>2023-05-15</lastmod>
     
